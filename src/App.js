@@ -4,6 +4,7 @@ import TodoList from "./components/TodoList";
 import Modal from "./components/Modal";
 import Sidebar from './components/Sidebar';
 
+// this project is very much fun!
 function App() {
   return (
       <div className="container">
